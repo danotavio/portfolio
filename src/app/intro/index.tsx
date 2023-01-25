@@ -12,7 +12,7 @@ export const Intro = ({ className }: Props) => {
     >
       <div className="flex flex-col gap-8 p-8 overflow-hidden">
         <h1 className="text-white text-8xl font-bold">
-          Hi, i'm
+          Hi, I&apos;m
           <div className="overflow-hidden w-96 h-fit relative flex flex-row group ">
             <span className="group-hover:text-zinc-900 z-10 p-1 transition-all ease-in">
               Jordan.
@@ -21,9 +21,9 @@ export const Intro = ({ className }: Props) => {
           </div>
         </h1>
         <p className="text-white text-lg font-light">
-          Nice to meet yout, I'm a front-end developer from Joinville, Brazil. I
-          have 1 year of experience with front-end and more than 5 years with
-          Design. Feel free contact me and make yourself at home 😊.
+          Nice to meet yout, I&apos;m a front-end developer from Joinville,
+          Brazil. I have 1 year of experience with front-end and more than 5
+          years with Design. Feel free contact me and make yourself at home 😊.
         </p>
 
         <div className="w-full flex space-x-2 items-center overflow-hidden relative">
